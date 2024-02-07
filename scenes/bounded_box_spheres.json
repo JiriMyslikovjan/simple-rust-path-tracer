@@ -1,0 +1,4574 @@
+{
+   "objects":[
+      {
+         "type":"plane",
+         "normal":[
+            0.0,
+            1.0,
+            0.0
+         ],
+         "d":0.0,
+         "material":{
+            "type":"diffuse",
+            "color":"#C0C0C0"
+         }
+      },
+      {
+         "type":"plane",
+         "normal":[
+            0.0,
+            0.0,
+            -1.0
+         ],
+         "d":4.0,
+         "material":{
+            "type":"diffuse",
+            "color":"#C0C0C0"
+         }
+      },
+      {
+         "type":"plane",
+         "normal":[
+            1.0,
+            0.0,
+            0.0
+         ],
+         "d":0.0,
+         "material":{
+            "type":"diffuse",
+            "color":"#F61212"
+         }
+      },
+      {
+         "type":"plane",
+         "normal":[
+            -1.0,
+            0.0,
+            0.0
+         ],
+         "d":4.0,
+         "material":{
+            "type":"diffuse",
+            "color":"#18F518"
+         }
+      },
+      {
+         "type":"plane",
+         "normal":[
+            0.0,
+            -1.0,
+            0.0
+         ],
+         "d":4.0,
+         "material":{
+            "type":"diffuse",
+            "color":"#C0C0C0"
+         }
+      },
+      {
+         "type":"plane",
+         "normal":[
+            0.0,
+            0.0,
+            1.0
+         ],
+         "d":0.0,
+         "material":{
+            "type":"diffuse",
+            "color":"#C0C0C0"
+         }
+      },
+      {
+         "type": "sphere",
+         "center": [
+           1.6297194836842737,
+           1.1090544921733096,
+           1.5958677450830083
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6118726470897065,
+           1.0751900653462365,
+           1.754608155062594
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.585324560351846,
+           1.1111560855924025,
+           1.8963592263610711
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.624175228572816,
+           1.076928641734705,
+           2.02304207584072
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6274245291617657,
+           1.1189922809953103,
+           2.1582822485833844
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.586226732543868,
+           1.0822702756346938,
+           2.237029408073345
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5922183008187494,
+           1.121189026547336,
+           2.377724256980517
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6283193285614752,
+           1.2241269005636115,
+           1.6176477356824175
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5886523294457282,
+           1.2231084916271795,
+           1.7180464412242902
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6130630029304884,
+           1.2495652275469893,
+           1.844858760736838
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.589622578542197,
+           1.219364679671227,
+           2.0291018966101153
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5728209852645412,
+           1.2450135941633866,
+           2.1487239718352864
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6157745080799257,
+           1.2338945304824651,
+           2.256196219758882
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6203698842102199,
+           1.2036327488542342,
+           2.4081858473453193
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6058292961068779,
+           1.3555990312808388,
+           1.6103364505119604
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6187214463174506,
+           1.3809480020890956,
+           1.727511799985256
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5883779448018713,
+           1.336791948610335,
+           1.8481376528530653
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6192790308736018,
+           1.343431755362116,
+           2.0024657247510156
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.628928526514066,
+           1.3600684408423442,
+           2.1610956013583773
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5898919337412336,
+           1.3473538881097304,
+           2.2549522954830468
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6289126376112317,
+           1.357750867677582,
+           2.4296952981860107
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5924071894696443,
+           1.5085741201521805,
+           1.6131753551714247
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6041946854377784,
+           1.4952867840641915,
+           1.7368476584832757
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.618549751750629,
+           1.5086155336372558,
+           1.8443768652460968
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6281213893766493,
+           1.5142861186969871,
+           2.0105818084763105
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6178229220364353,
+           1.506119136370694,
+           2.108964259042947
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6208275386860715,
+           1.4783891553877802,
+           2.265314658045853
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5789048220822302,
+           1.4860488036746655,
+           2.4180820112651684
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6112690424902958,
+           1.6159845150623602,
+           1.582698025573294
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.607308557013918,
+           1.6163081208887042,
+           1.7458044709279619
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.598497353277625,
+           1.636741756190783,
+           1.8928515662196161
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5878431687178909,
+           1.633913752023327,
+           1.9930296006326698
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.571893515917709,
+           1.644770653020002,
+           2.146353936879151
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.613659940735753,
+           1.6382909812695787,
+           2.2679452761396024
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5701694524841707,
+           1.654886830935153,
+           2.403984934321719
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6104683240380397,
+           1.767887075623032,
+           1.5924520022867443
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6238133730984148,
+           1.780500244394851,
+           1.7057947450540278
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5725583298293997,
+           1.7557774577746914,
+           1.8474512376241712
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5889287868141548,
+           1.7597748165743239,
+           2.027167308985275
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6290431410807014,
+           1.7749570898712903,
+           2.1052284213179036
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6213872561381721,
+           1.7719945933580057,
+           2.245932201973191
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6080044934910556,
+           1.7661326091439267,
+           2.399737992314918
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.593146002253568,
+           1.9039604662724317,
+           1.593269801076639
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5709457687791395,
+           1.9099717491587074,
+           1.7206690954506774
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.588031592077887,
+           1.8807586480244607,
+           1.8443091983376494
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6045549565230068,
+           1.9122508432938847,
+           2.000885314174648
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6262567404470696,
+           1.8997002255009274,
+           2.1207333048166728
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.6143042891110482,
+           1.8877985147345726,
+           2.2854338867331476
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.5988287245045416,
+           1.880954631589903,
+           2.4260978484677223
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7185842099002213,
+           1.079435908403241,
+           1.6122690142505665
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7104400550165055,
+           1.1169272054791841,
+           1.7035681645394427
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7544406367552459,
+           1.0968348312731562,
+           1.8728767635770107
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7126689195672984,
+           1.0780285271486505,
+           2.003491681967453
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7289141217632085,
+           1.114507909154018,
+           2.163256871796311
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7280556373105134,
+           1.073650708425181,
+           2.2827730250481872
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.75410760357838,
+           1.0719455861873124,
+           2.4170432815058494
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.741463539401063,
+           1.2562672515355142,
+           1.581129958674724
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7274124807346625,
+           1.21140433076818,
+           1.7388237472896768
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7070906368908996,
+           1.2200814829431263,
+           1.87149635137175
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7491465230830205,
+           1.2076195455782097,
+           1.9717413602268623
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7450227077158917,
+           1.2297323826815973,
+           2.161492041621588
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.722335722645017,
+           1.2102362296306213,
+           2.239552076089371
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7304011092027525,
+           1.2529446071569177,
+           2.415071030517165
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7183970389602914,
+           1.3398233551825889,
+           1.6195012469771342
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7039926329965704,
+           1.3804515894397582,
+           1.7068268351894822
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7117187238843232,
+           1.3651603467536126,
+           1.8825950078239413
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.748616336312353,
+           1.3724441440080217,
+           2.0065051913012093
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7501995329657007,
+           1.3755584174457716,
+           2.130159803928593
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7135434887598036,
+           1.3920106379667767,
+           2.2698462175547927
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7603023124069732,
+           1.367400436270752,
+           2.3980849532728383
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7347757764438907,
+           1.4863184498334003,
+           1.6033617370454996
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7169420757663039,
+           1.4939322193895024,
+           1.749743466811291
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7172303716342814,
+           1.483310345495913,
+           1.8781471828830616
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7390847764959987,
+           1.4871083790039141,
+           2.0006240313314656
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7240710325284143,
+           1.4968311229042082,
+           2.111070807435637
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7567867560502752,
+           1.4987967018930628,
+           2.2696172225896785
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7185060291825078,
+           1.495470820831848,
+           2.393560735493924
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7309723073337702,
+           1.662203972055171,
+           1.5716714071508757
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7422673317365394,
+           1.6148836149589358,
+           1.7554819781439008
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7575878803389198,
+           1.6281272808707603,
+           1.8372407704900904
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.753702834437618,
+           1.610501092605924,
+           1.9760443352774537
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7460445449125042,
+           1.6591491481182508,
+           2.1124044513468
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7429655270630637,
+           1.6632275936495637,
+           2.2530250679909205
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7539183991302265,
+           1.6045391107745686,
+           2.410912809402283
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7063297385294531,
+           1.743727555191569,
+           1.6185579826690435
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7124485529735591,
+           1.7660478294491868,
+           1.7291832683519763
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.751885525121025,
+           1.7794944115122497,
+           1.8560344314635624
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7071306055726603,
+           1.7553566909406497,
+           2.0266626244599486
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7309982827880088,
+           1.7580522477911302,
+           2.132707455086919
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7035787090976258,
+           1.7658359022952423,
+           2.2388449076064076
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7356927645609634,
+           1.7585679623051402,
+           2.42639651661245
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.716901418721585,
+           1.892873149273696,
+           1.624716709296536
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7452420378362703,
+           1.893375400775277,
+           1.7264922373756941
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.75891530710609,
+           1.8767343545849227,
+           1.8798875223271954
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.745985926893466,
+           1.906334410491791,
+           1.9881257994538404
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7599253024770558,
+           1.8710124243242479,
+           2.1261752469869477
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.763212214475875,
+           1.8988135893726619,
+           2.281138554584102
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.7078787151161228,
+           1.8962790132512595,
+           2.3913220604130214
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8393062119115349,
+           1.0730204679667605,
+           1.626795577754867
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.885739743005207,
+           1.1227342936162648,
+           1.7078618397114051
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8540775089762456,
+           1.0954726485508017,
+           1.8704928621446928
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8867699890337684,
+           1.0833396212459083,
+           1.9770609223822389
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8956696157083173,
+           1.082194040491194,
+           2.108854881386777
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.852526692837945,
+           1.0719882551452375,
+           2.2558916179032407
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.88358692665496,
+           1.090195464752204,
+           2.3842345163573415
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8915501318354897,
+           1.223225894503893,
+           1.6117463130965817
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8586270430312262,
+           1.2302210265917661,
+           1.7266216565111703
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8469962457030786,
+           1.2517109253223122,
+           1.8550649427910249
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.850917821643192,
+           1.239992463346044,
+           2.0253914427716166
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.850530384074533,
+           1.2452432739765944,
+           2.144692990652658
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8882397800752284,
+           1.2356187472139266,
+           2.2547460802950994
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8934428209797922,
+           1.2607581350429589,
+           2.406570430947645
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.851004392262158,
+           1.3762820702827268,
+           1.6033081785616072
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8853344215345547,
+           1.342679922542254,
+           1.7553782997567051
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8418820688411326,
+           1.3728175231062183,
+           1.8689052609235035
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8765323089231194,
+           1.3678439544295262,
+           1.9983444766035585
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8961895417490946,
+           1.3926510772230758,
+           2.141897129284574
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8463476197242692,
+           1.3787933953851064,
+           2.2740182914964495
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8646470783672946,
+           1.354665144202491,
+           2.3820159497648077
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8548088989665357,
+           1.5070769090555205,
+           1.6176741066504225
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.886691553008281,
+           1.477135985986217,
+           1.747814455126663
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8551986752325935,
+           1.5233242264298623,
+           1.8480921858274542
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8946298577389078,
+           1.520144160646104,
+           1.9992818429288546
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8891992480623088,
+           1.5175512110909983,
+           2.1544760076271525
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8486393941578814,
+           1.5050913554072605,
+           2.2781290102126577
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8571605665421163,
+           1.5221748131949122,
+           2.3937075313856773
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.849223539961823,
+           1.6423502488069224,
+           1.600046849735856
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8806823793033745,
+           1.6556541046885518,
+           1.7393053442815192
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8577059933528182,
+           1.6359553520359442,
+           1.853547386400508
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.853874845340891,
+           1.6119616587036134,
+           2.005358799342818
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8824221680371265,
+           1.6497973504480308,
+           2.1220044001939726
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8513780525124632,
+           1.6055413580670526,
+           2.2515498421042364
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8460822126263738,
+           1.6464514123440896,
+           2.3998976739401683
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8437604579117206,
+           1.7560598129703313,
+           1.6129642303135934
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.846309664327476,
+           1.7426325282463557,
+           1.7306193109840549
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.888038109551916,
+           1.7956841508579506,
+           1.8716180700714304
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.856580128808007,
+           1.7687893478456913,
+           1.9758087161862625
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.845704166725396,
+           1.774425169707599,
+           2.155046016686883
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8533732572011075,
+           1.7486065386880056,
+           2.244365583907989
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.854081609772167,
+           1.755761800358659,
+           2.427729683246819
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.845102112637004,
+           1.8901955670781614,
+           1.6248440838212286
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8627529963811138,
+           1.8796855336025262,
+           1.7053310975641713
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.852099545477787,
+           1.8754549501414395,
+           1.8721520384212182
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8841078525525665,
+           1.8937034146739382,
+           1.997481334881305
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.872185555934497,
+           1.8942274759461981,
+           2.1537842225674337
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8737453447192804,
+           1.8965990797455277,
+           2.2717264769967516
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.8712633078426852,
+           1.8808271070657336,
+           2.379740176993401
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9799901989291988,
+           1.1097347858918845,
+           1.6081521291449126
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.018337967853691,
+           1.0738507807678581,
+           1.7407622313441875
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0239588981375984,
+           1.1068621296670176,
+           1.8748064678438943
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9700573594915078,
+           1.0872204964399073,
+           1.9867249044049857
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9794117893672085,
+           1.1154650794212864,
+           2.118151476458608
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9834229012185256,
+           1.1006076806670395,
+           2.2461022130540798
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0101736942782282,
+           1.1013043440577415,
+           2.4286117276829793
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0167184623850423,
+           1.2566523376970469,
+           1.5826404835020327
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.027361879816983,
+           1.2364878998031223,
+           1.7221129296327293
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9865620569113094,
+           1.210839426053848,
+           1.847004153806009
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.022146825783883,
+           1.2300232849565897,
+           1.9882338645453568
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0005724915398098,
+           1.2265214666512538,
+           2.1526248532516226
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9883687647156987,
+           1.2475331368118496,
+           2.2963611394270735
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0028047473519184,
+           1.2191021170712277,
+           2.381671277133469
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9709877532583318,
+           1.386722763630119,
+           1.6243251515230495
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9772041360343624,
+           1.3625888721370998,
+           1.7384456178884058
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9951294835371611,
+           1.3896930941100831,
+           1.8803188760263616
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.008872473131955,
+           1.393358016861923,
+           1.9815617428580186
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9924953543909867,
+           1.3773599057893675,
+           2.1239087850911798
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.00014851572323,
+           1.353671663850684,
+           2.2568930754016097
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.98394571773184,
+           1.3493483247506433,
+           2.412613482405677
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9930633347620161,
+           1.5262772749324867,
+           1.6004232467676858
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.99872827116858,
+           1.470947280630466,
+           1.7138042559345998
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0291775310187434,
+           1.506919660706022,
+           1.8510621119108825
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0215673265486527,
+           1.4923068235599284,
+           2.0006870195198436
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.004453385679187,
+           1.515761689880288,
+           2.1372105742011245
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0099943782401075,
+           1.4718638587402528,
+           2.237375013747707
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9993221636135468,
+           1.5027446567357832,
+           2.382199936147044
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9917631159242206,
+           1.6356130131585558,
+           1.5794726724333958
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.988439794181406,
+           1.6157470744612215,
+           1.7544575305609698
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0088877368725524,
+           1.6349226416687177,
+           1.8863077895923033
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9941571921938326,
+           1.652780476121326,
+           1.9775486815846572
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.005057478118632,
+           1.6257522239646445,
+           2.1067779828275386
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.025255732194802,
+           1.6583983630669112,
+           2.254335290556778
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0050996970110093,
+           1.6484745529245788,
+           2.4114241940776595
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.020289063668088,
+           1.7782518418908586,
+           1.5785532202400847
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.026124555142964,
+           1.7562492824373128,
+           1.7309073293102604
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.024993578958028,
+           1.7409066266462612,
+           1.8540935949942474
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9719798935195734,
+           1.7963330606879888,
+           1.990186134013643
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.02442672259226,
+           1.7620437849481734,
+           2.146088262463259
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9818926372961,
+           1.7770051180163424,
+           2.269062185282292
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9891478789209187,
+           1.7457968317311967,
+           2.403915696569983
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0182255713964397,
+           1.883096604624654,
+           1.6055867822491667
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0100189940846778,
+           1.89271921960349,
+           1.712723742671835
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0014651569913307,
+           1.8889210943662573,
+           1.8517865682948833
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9870658673224946,
+           1.91604908765377,
+           1.9763254328347566
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.007475131747892,
+           1.873090106044284,
+           2.10724006562987
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           1.9890332000534674,
+           1.8765431780298925,
+           2.265536654829858
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.0215648034771974,
+           1.902941129018369,
+           2.388718039608021
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1055928686744636,
+           1.1005805641164084,
+           1.6216493527214346
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.106176548031957,
+           1.081812519205386,
+           1.750182650364162
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1183485805756157,
+           1.116204298991229,
+           1.8557781565194864
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.122990547833087,
+           1.0894676577978204,
+           1.9774755492531662
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.147915716685276,
+           1.121149734307886,
+           2.130480022585245
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.109582067621975,
+           1.1122140869282815,
+           2.2377256774978522
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.115891465683016,
+           1.100450350511721,
+           2.3981540808088164
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1486819057427082,
+           1.2415175002696621,
+           1.6218172249289524
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1394208973256035,
+           1.2335619143996235,
+           1.735474698538637
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.131861301969333,
+           1.258862915595361,
+           1.8688000803603153
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.11569269314906,
+           1.2346869282848707,
+           1.9807135379536103
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.133455192419466,
+           1.2152692163212755,
+           2.1409867579320285
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1567782477261606,
+           1.229304006275391,
+           2.2499622952966596
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1457723258366794,
+           1.2607740398361176,
+           2.4018161588785554
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.119412115645715,
+           1.3618116303299914,
+           1.6045222366418435
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.133684394751202,
+           1.3828539132761772,
+           1.7287265869071304
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1410013237444834,
+           1.3632231806600583,
+           1.8453529423181154
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1148494372309377,
+           1.384460700980692,
+           1.9837604348632303
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1582079412264767,
+           1.3481551086333499,
+           2.159513947997214
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.124987046148057,
+           1.384782857904432,
+           2.263374269287774
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.116622992890347,
+           1.366272409668021,
+           2.375607098989096
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1566881948682095,
+           1.4701002498678157,
+           1.591065925317516
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.140475695561576,
+           1.4933201821739,
+           1.7583854934498586
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1335031157252935,
+           1.501151887028213,
+           1.8409170317351382
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1427681263825393,
+           1.5246077922093235,
+           1.9740832296077822
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.12984246781842,
+           1.5085929001078047,
+           2.1334182793358725
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1450266169577605,
+           1.4711465154937071,
+           2.2930164509345246
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1092195574600137,
+           1.5193228969033528,
+           2.3914067490647692
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.109621116936383,
+           1.6076348260419753,
+           1.5998046378809596
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1078969890741646,
+           1.6594762688410958,
+           1.7374421699724885
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.151411833322213,
+           1.6297105903799098,
+           1.8403392487279047
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1080215200550017,
+           1.6121658498671219,
+           2.0188429478660157
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.110075463199982,
+           1.6375898698554563,
+           2.149873294962687
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.115147527823294,
+           1.6604557456151214,
+           2.2587589048148553
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.152963122000542,
+           1.6288441745808724,
+           2.417328184162946
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.129360722119653,
+           1.7763738384225858,
+           1.5942557457919715
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.104493705510633,
+           1.7720439293426185,
+           1.7175419007530501
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1095307422722778,
+           1.7727116681939874,
+           1.883601709641354
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.119909870064532,
+           1.7778960050490733,
+           1.998836427818564
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1369952885659433,
+           1.7553760569858894,
+           2.162610696081002
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.122597976271948,
+           1.7829524733378044,
+           2.2376037488338403
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1123613736613014,
+           1.7755603237133668,
+           2.3996617032026673
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1370860559548297,
+           1.8994758201221131,
+           1.590070271519198
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.127317165464686,
+           1.8826854454310737,
+           1.7283303774802883
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1070298465441315,
+           1.8723102232537827,
+           1.892746457127063
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1208987839818016,
+           1.8868931195898724,
+           1.9894023732498018
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.1410336910572894,
+           1.88338250065227,
+           2.1388210436522255
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.105981305830224,
+           1.9215065720314848,
+           2.246891949072251
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.144402205443021,
+           1.9069683058109494,
+           2.399549999688969
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.291183849504088,
+           1.1082436482802718,
+           1.6025101291110353
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2399693649338333,
+           1.1154140447475944,
+           1.723081780769513
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.255000021410937,
+           1.1294592586598564,
+           1.8641846776578057
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.274956598366945,
+           1.1087569834756406,
+           1.9857394583779624
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.26067007899894,
+           1.0909770884352654,
+           2.1457250762473916
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2842903577136062,
+           1.086077011884666,
+           2.2488090112712786
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2378885070096977,
+           1.106220186598088,
+           2.3918320345057253
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2536877005897638,
+           1.2113329912941313,
+           1.600036458138013
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.293435035655423,
+           1.223327857518095,
+           1.7238723229039312
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.273716786090596,
+           1.2595998411514164,
+           1.8742841186440475
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.236683469989346,
+           1.2273112531640096,
+           2.004072316649492
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2377367962901085,
+           1.2167141650491864,
+           2.134015061984407
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.260754122659601,
+           1.2088170996568541,
+           2.238894752636938
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2877250220593117,
+           1.23485253407532,
+           2.3760635100977043
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2933558194689545,
+           1.3599679123293074,
+           1.6162666732228463
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2699051815158535,
+           1.3694984723302568,
+           1.7606950070382976
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2572953500590156,
+           1.360743170910211,
+           1.8537513491500899
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2789622077984184,
+           1.3805422274268868,
+           2.0132445696541748
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2461281091778997,
+           1.3494472114817047,
+           2.116598432512663
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.255381611708089,
+           1.3608118119434607,
+           2.2694940539705537
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.239457889357981,
+           1.3609696326633978,
+           2.407766053682294
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2736954018903957,
+           1.5032708753605528,
+           1.618988277962902
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.289885730471722,
+           1.473267277018656,
+           1.720414668118614
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2620336278911237,
+           1.4869088484655,
+           1.8937875315113322
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.244747842694467,
+           1.5042825061891805,
+           1.9768844063210873
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2878015766892985,
+           1.520084088751068,
+           2.140466866549714
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.267009161823106,
+           1.4844918734301058,
+           2.237334614202091
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.272060519311876,
+           1.5126911839636594,
+           2.3938229746315094
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.292840153303142,
+           1.6246257002184221,
+           1.5715759852053655
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2666045775555244,
+           1.6290733989454198,
+           1.7366503890368232
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2572209777589,
+           1.6263706874294235,
+           1.8630585204410122
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.28570086523213,
+           1.6224906038203193,
+           2.0210313799218382
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2692770802730124,
+           1.6043153528518597,
+           2.132661993521552
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.252849381837068,
+           1.617353649326237,
+           2.2880975150489893
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.287652262463605,
+           1.6279068454225019,
+           2.381028531344832
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2635413486083578,
+           1.760231555048774,
+           1.5747011351497415
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.28029899306335,
+           1.7674636067041545,
+           1.7481938032731201
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2487549525548083,
+           1.7718725290066213,
+           1.8549892453411323
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2814677632872833,
+           1.789325644168592,
+           1.9767241184291469
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.243668501550453,
+           1.7737658991503593,
+           2.1146165422860586
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.260350148311129,
+           1.774187268911332,
+           2.2524945614972953
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2397656714332577,
+           1.7765337497392286,
+           2.3832667785721706
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2862511079095142,
+           1.9151211350022734,
+           1.5814770125321642
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2555357902689677,
+           1.8807216760994052,
+           1.7567409353661911
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2610682269092437,
+           1.8770073310465814,
+           1.84516778129793
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.244976998202002,
+           1.890069719161504,
+           1.9880203192709576
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.2527722404056734,
+           1.903746859472523,
+           2.1180975542495304
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.23749087299485,
+           1.9231539414445968,
+           2.278882743699354
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.293410904600464,
+           1.889688226258745,
+           2.397959615745381
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4198142453317923,
+           1.125108638189858,
+           1.6254622370753753
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.429548622528577,
+           1.0990713278973765,
+           1.7591671944255984
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4131519098131773,
+           1.0752004113173044,
+           1.855191509856126
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.429795022654542,
+           1.0949654165404317,
+           2.019014295691314
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3947197283583033,
+           1.0743944062387947,
+           2.118935642992439
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.380487237311885,
+           1.1240143255256163,
+           2.2497531422016652
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4246369035588544,
+           1.0728089930173599,
+           2.3834751339878983
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3777790292952767,
+           1.220573103785779,
+           1.609721153292823
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3803952261155126,
+           1.2381657548785667,
+           1.7600221014843442
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.373690761650365,
+           1.2095504191089061,
+           1.8644516454118876
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3919829340331824,
+           1.225499773617346,
+           2.0048445626729805
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4113482233877472,
+           1.2395185572821203,
+           2.1593415612445264
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4284730104296894,
+           1.2219301379290242,
+           2.285855512560789
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.387388862968753,
+           1.218259550373837,
+           2.382764441364092
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.37480915459472,
+           1.3930948921481952,
+           1.6155056439962463
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4110424515108537,
+           1.3440238232200254,
+           1.7364877266783636
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4086168709256643,
+           1.3590321805603347,
+           1.878251101664265
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4118500623169363,
+           1.3385851518898555,
+           2.0288418810493734
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.417854395628351,
+           1.3480131750645368,
+           2.133277775544099
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3836337029750454,
+           1.3472977689913042,
+           2.270286730933943
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.382984327860601,
+           1.3370107410383527,
+           2.3803922167038625
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4140083095813223,
+           1.519598889755529,
+           1.6122252503237098
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.423613957043916,
+           1.5182744529609777,
+           1.7276747792372207
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3952291812945825,
+           1.5162277676151759,
+           1.8789089927571359
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.41317826825073,
+           1.4852465172103442,
+           1.9769043840605232
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3870705584486758,
+           1.5274082864415683,
+           2.1087728715539003
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.429589885281155,
+           1.4848460804942325,
+           2.2579546399954364
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4023915950500054,
+           1.4788228337004026,
+           2.420039922576386
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.42798371867623,
+           1.617623588991058,
+           1.5789869147987627
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4238505599438422,
+           1.654194818853802,
+           1.7491290780252386
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4188155651359198,
+           1.638514002750457,
+           1.8560217444377791
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.389702102466624,
+           1.626179006119322,
+           1.9867265947366275
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3727674020448104,
+           1.6485055770048904,
+           2.12909565418176
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.413284973487834,
+           1.6095850601781545,
+           2.2621127509590098
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3903911053791242,
+           1.6536251713854502,
+           2.3861379576356594
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4197926954106936,
+           1.794022887596775,
+           1.6002797252946248
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.401600796077468,
+           1.7782365426141082,
+           1.7387254296098966
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4186486329999672,
+           1.7785422891290006,
+           1.8635690663382554
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3840306683971693,
+           1.775539093341876,
+           1.9955352110514415
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.41904332907848,
+           1.7540910383558574,
+           2.1088910174313646
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.379403859163627,
+           1.7431018899043138,
+           2.279294089378083
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4250761430577414,
+           1.7877460179977456,
+           2.4271325188270687
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4174473613314436,
+           1.8806774128905603,
+           1.6123249071937236
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4031840196793004,
+           1.8780813610643152,
+           1.703444553512743
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.408269547647163,
+           1.8786991335893568,
+           1.840396587483664
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4195541684491406,
+           1.9173574659845898,
+           1.9810263306143563
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.392734033505218,
+           1.92380992075371,
+           2.1270620059833725
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.3911919799409698,
+           1.9007546359448748,
+           2.260122267067695
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+       {
+         "type": "sphere",
+         "center": [
+           2.4157688130519355,
+           1.8987808597948321,
+           2.381112524540321
+         ],
+         "radius": 0.075,
+         "material": {
+           "type": "diffuse",
+           "color": "#EEEAD6"
+         }
+       },
+      {
+         "type":"camera",
+         "look_from":[
+            3.5,
+            1.4,
+            0.1
+         ],
+         "look_at":[
+            1.0,
+            1.4,
+            4.0
+         ],
+         "vup":[
+            0.0,
+            1.0,
+            0.0
+         ],
+         "fov":90.0,
+         "resolution":{
+            "width":800,
+            "height":800
+         }
+      },
+      {
+         "type":"light",
+         "center":[
+            2.0,
+            3.6,
+            2.0
+         ],
+         "radius":0.35,
+         "emission":60.0
+      }
+   ]
+}
